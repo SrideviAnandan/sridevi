@@ -1,0 +1,1 @@
+This Face Detection App utilizes AWS services to perform face detection on images. The application is designed to detect faces in uploaded images and provide bounding box coordinates for each detected face.
